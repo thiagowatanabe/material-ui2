@@ -1,1 +1,1 @@
-export {};
+export {AppThemeProvider } from './ThemeContext';
