@@ -1,4 +1,4 @@
-import { Box, Button, Divider, Icon, Paper, Skeleton, Theme, Typography, useMediaQuery, useTheme } from "@mui/material";
+import { Box, Button, Icon, Paper, Skeleton, Theme, Typography, useMediaQuery, useTheme } from "@mui/material";
 
 interface IFerramentasDaDetalheProps {
 	textoBotaoNovo?: string;

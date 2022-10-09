@@ -1,91 +1,9 @@
 {
-    "pessoas":[
-        {
-            "id":1,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"juca a"
-        },
-        {
-            "id":2,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Thiago w"
-        },
-        {
-            "id":3,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Juanita T"
-        },
-        {
-            "id":4,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Valentina T W"
-        },
-        {
-            "id":5,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Valentina T W"
-        },
-        {
-            "id":6,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Joana T W"
-        },{
-            "id":7,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Cicero T W"
-        },{
-            "id":8,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Neuza T W"
-        },{
-            "id":10,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Jurandi T W"
-        },
-        {
-            "id":11,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Lavini T W"
-        },
-        {
-            "id":12,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Gustavo T W"
-        },
-        {
-            "id":13,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"BIa T W"
-        },
-        {
-            "id":14,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Olesa T W"
-        },
-        {
-            "id":15,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Luzines T W"
-        },
-        {
-            "id":16,
-            "email":"email",
-            "cidadeId":1,
-            "nomeCompleto":"Jonathan T W"
-        }
-    ]
+  "pessoas": [],
+  "cidades": [
+    {
+      "id": 1,
+      "nome":"Mirasssol"
+    }
+  ]
 }
